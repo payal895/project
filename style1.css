@@ -13,7 +13,7 @@
 	}
 	
 	html::-webkit-scrollbar-thumb {
-		background: red;
+		background: red ;
 	
 	}
 	
@@ -101,7 +101,7 @@ letter-spacing: .2rem;
 
 
 .home {
-	background:linear-gradient(rgba(0, 0, 0, 0.5),rgba(255,0,0,0.4)),url(on.jpg);
+	background:url(on.jpg);
 	background-position:center;
 	background-repeat:no-repeat;
 	background-size:cover;
