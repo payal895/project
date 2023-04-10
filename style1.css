@@ -13,12 +13,12 @@ html::-webkit-scrollbar {
 }
 
 html::-webkit-scrollbar-thumb {
-	background: white;
+	background: black;
 
 }
 
 html::-webkit-scrollbar-track {
-	background: grey;
+	background: blue;
 }
 	*
 	{
